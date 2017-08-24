@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+<Item>
+<title>Motherboard XYZ</title>
+<image>http://someurl.com/image.jpg</image>
+<detailpage>http://someurl.com/product1-detail</detailpage>
+<price>50.00</price>
+</Item>
+</Items>
