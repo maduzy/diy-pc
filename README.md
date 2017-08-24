@@ -8,6 +8,6 @@ There's also a YouTube embed video tutorial showing you how to build a PC and yo
 The app an academic example I made in university and never had a commercial goal.
 
 DIY-PC is a non functioning example as my Amazon affiliate account has been suspended due to inactivity.
-I also decided not to share the PHP client this application connects to, which itself connects to the Amazon's affiliates API, as it contains sensitive information.
+I also decided not to share the PHP client this application connects to, which itself connects to the Amazon's affiliates API, as it contains sensitive information. I included a sample.xml file that shows an example of what the PHP client would output.
 
 The code is free to use without restrictions.
